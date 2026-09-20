@@ -38,6 +38,7 @@ Goiânia → Trindade = 20 minutos
 Goiânia → Anápolis = 70 minutos
 Trindade → Inhumas = 30 minutos
 Inhumas → Anápolis = 35 minutos
+```
 
 Dessa forma, o grafo pode ser representado como:
 
